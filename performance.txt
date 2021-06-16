@@ -1,3 +1,10 @@
+XGBRegressor
+
+MAE: 2.7194693748696332
+MSE: 19.564544014678276
+RMSE: 4.423182566283951
+
+
 RandomForestRegressor
 
 MAE: 3.2707705016181214
@@ -9,6 +16,7 @@ RandomForestRegressor with FeatureModelling
 MAE: 3.0007705016181214
 MSE: 22.189910436944705
 RMSE: 4.5879906705060065
+
 
 
 GradientBoostingRegressor
